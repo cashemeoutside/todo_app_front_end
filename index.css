@@ -1,0 +1,28 @@
+.pomodoro-estimate{
+    font-weight: bold;
+    color: #F44336;
+    background-color: #00FF00;
+    border-radius: 50px;
+    font-size: 14px;
+    padding: 1px 12px 5px 10px;
+    border-radius: 50px;
+    border: dotted #ffff00;
+}
+
+h1{
+    color:red;
+    background-color:#00ff00;
+}
+
+#add-new-todo-button{
+    background-color: lightblue;
+    padding: 10px;
+    border: none;
+    box-shadow: 2px 2px 2px #90A4AE;
+    outline: none;
+    
+}
+
+#add-new-todo-button:active{
+    box-shadow: 1px 1px 1px #90A4AE; 
+}
