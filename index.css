@@ -1,28 +1,45 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/010/996/non_2x/vector-blake-squared-diamond-pattern.jpg);
+}
+
 .pomodoro-estimate{
     font-weight: bold;
-    color: #F44336;
-    background-color: #00FF00;
+    color: (0,0,255,);
+    background-color: rgba(178,207,229,.5);
     border-radius: 50px;
     font-size: 14px;
     padding: 1px 12px 5px 10px;
-    border-radius: 50px;
-    border: dotted #ffff00;
+   
+    border: dotted  rgba(242, 242, 242, 0.7);
 }
 
 h1{
-    color:red;
-    background-color:#00ff00;
+     background-color: rgba(178,207,229,.5);
+     color:#0B0B61;
 }
+   
 
 #add-new-todo-button{
+    margin:auto;
     background-color: lightblue;
     padding: 10px;
     border: none;
     box-shadow: 2px 2px 2px #90A4AE;
+    display: block;
     outline: none;
-    
 }
+
 
 #add-new-todo-button:active{
     box-shadow: 1px 1px 1px #90A4AE; 
+}
+
+.back-container{
+    background-color: rgba(242, 242, 242, 0.7);
+    text-align:center; 
+    
+}
+
+ul {
+    font-size:32px;
 }
