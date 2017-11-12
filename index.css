@@ -4,7 +4,7 @@ body {
 
 .pomodoro-estimate{
     font-weight: bold;
-    color: (0,0,255,);
+    color: rgb(0,0,255);
     background-color: rgba(178,207,229,.5);
     border-radius: 50px;
     font-size: 14px;
@@ -45,4 +45,12 @@ h1{
 ul {
     background-color: rgba(242, 242, 242, 0.7);
     font-size:32px;
+    list-style: none;
+    padding: 3px;
+}
+
+input[type='checkbox'] {
+    width: 15px;
+    height: 15px;
+    transform: scale(2);
 }
