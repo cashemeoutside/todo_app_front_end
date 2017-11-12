@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://static.vecteezy.com/system/resources/previews/000/010/996/non_2x/vector-blake-squared-diamond-pattern.jpg);
+    background-image: url(http://rs736.pbsrc.com/albums/xx8/adamd0110/shimmering-multistars.gif~c200);
 }
 
 .pomodoro-estimate{
@@ -35,11 +35,14 @@ h1{
 }
 
 .back-container{
-    background-color: rgba(242, 242, 242, 0.7);
-    text-align:center; 
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/010/996/non_2x/vector-blake-squared-diamond-pattern.jpg);
+    width: 65%;
+    text-align:center;
+    margin: -20px auto;
     
 }
 
 ul {
+    background-color: rgba(242, 242, 242, 0.7);
     font-size:32px;
 }
